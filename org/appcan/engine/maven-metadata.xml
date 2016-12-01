@@ -3,10 +3,11 @@
   <groupId>org.appcan</groupId>
   <artifactId>engine</artifactId>
   <versioning>
-    <release>4.0.0</release>
+    <release>4.0.1</release>
     <versions>
+      <version>4.0.1</version>
       <version>4.0.0</version>
     </versions>
-    <lastUpdated>20160630023503</lastUpdated>
+    <lastUpdated>20161201023503</lastUpdated>
   </versioning>
 </metadata>

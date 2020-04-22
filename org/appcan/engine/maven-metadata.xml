@@ -3,14 +3,15 @@
   <groupId>org.appcan</groupId>
   <artifactId>engine</artifactId>
   <versioning>
-    <release>4.4.27</release>
+    <release>4.5.30_dev</release>
     <versions>
       <version>4.0.0</version>
       <version>4.3.21</version>
       <version>4.3.23</version>
       <version>4.4.24</version>
       <version>4.4.27</version>
+      <version>4.5.30_dev</version>
     </versions>
-    <lastUpdated>20191115114527</lastUpdated>
+    <lastUpdated>20200422052653</lastUpdated>
   </versioning>
 </metadata>
